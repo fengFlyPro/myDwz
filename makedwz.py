@@ -14,8 +14,7 @@ str ='''
 <html>
  <head>
   <script>
-window.location.href="
-'''+dwz_root+'''" 
+window.location.href="'''+dwz_root+'''" 
 </script>
  </head>
  <body></body>
